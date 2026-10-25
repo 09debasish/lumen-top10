@@ -1,5 +1,106 @@
 {
-  "updated": "",
-  "shows": [],
+  "updated": "2026-10-25",
+  "shows": [
+    {
+      "rank": 1,
+      "title": "Least Eligible Bachelor",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Romantic Comedy",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 2,
+      "title": "The Great Indian Kapil Show",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Comedy Talk Show",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 3,
+      "title": "Roadies Rebirth",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Reality",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 4,
+      "title": "Take Charge of My Heart",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Romantic Comedy",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 5,
+      "title": "Below",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Supernatural Horror",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 6,
+      "title": "Shaque: Trust No One",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Thriller",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 7,
+      "title": "Chumbak",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Sitcom",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 8,
+      "title": "Doctor X: Mafia in White",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Crime Drama",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 9,
+      "title": "#Love",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Romance",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    },
+    {
+      "rank": 10,
+      "title": "Raw",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Wrestling",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india/tv"
+    }
+  ],
   "movies": []
 }
