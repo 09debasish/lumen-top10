@@ -90,17 +90,108 @@
       "poster": "",
       "link": "",
       "source": "https://www.netflix.com/tudum/top10/india/tv"
+    }
+  ],
+  "movies": [
+    {
+      "rank": 1,
+      "title": "Mandaadi",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 2,
+      "title": "Reporting Live",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 3,
+      "title": "Enna Vilai : The Price of Dignity",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 4,
+      "title": "Pradhama Drishtya Kuttakkar",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 5,
+      "title": "Epic",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 6,
+      "title": "Vishwanath & Sons",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 7,
+      "title": "Animals",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 8,
+      "title": "Irumudi",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Film",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
+    },
+    {
+      "rank": 9,
+      "title": "Evil Dead Burn",
+      "platform": "netflix",
+      "year": 2026,
+      "genre": "Horror",
+      "poster": "",
+      "link": "",
+      "source": "https://www.netflix.com/tudum/top10/india"
     },
     {
       "rank": 10,
-      "title": "Raw",
+      "title": "Modha Rathri",
       "platform": "netflix",
       "year": 2026,
-      "genre": "Wrestling",
+      "genre": "Film",
       "poster": "",
       "link": "",
-      "source": "https://www.netflix.com/tudum/top10/india/tv"
+      "source": "https://www.netflix.com/tudum/top10/india"
     }
-  ],
-  "movies": []
+  ]
 }
